@@ -39,16 +39,7 @@ I'm a **Software Tester** focused on building clean, scalable automation suites.
 > * 🚀 **Performance Testing**: Understanding load balancing and bottlenecks.
 > * 🐍 **Pythonic QA**: Writing cleaner, more efficient automation scripts.
 
----
 
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahul-0707&theme=transparent&no-frame=true&margin-w=15&column=4" alt="github trophies" />
-  </a>
-</p>
-
----
 
 ### 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/rahul-singh-parihar-1b12aa2b7) • [Email](mailto:your-email@example.com)
