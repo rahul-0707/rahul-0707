@@ -26,10 +26,26 @@ I'm a **Software Tester** focused on building clean, scalable automation suites.
 
 ---
 
-### 📊 Insights & Activity
+### ⚡ My Automation Workflow
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul-0707&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=586069" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-0707&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=586069&hide=c,c++" width="45%" />
+  <img src="https://img.shields.io/badge/Identify-Bugs-red?style=flat-square&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Automate-Playwright-green?style=flat-square&logo=playwright" />
+  <img src="https://img.shields.io/badge/Integrate-CI%2FCD-blue?style=flat-square&logo=github-actions" />
+  <img src="https://img.shields.io/badge/Ensure-Quality-orange?style=flat-square" />
+</p>
+
+> **Currently Diving Deep Into:**
+> * 🤖 **AI-Driven Testing**: Researching how LLMs can generate test cases.
+> * 🚀 **Performance Testing**: Understanding load balancing and bottlenecks.
+> * 🐍 **Pythonic QA**: Writing cleaner, more efficient automation scripts.
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahul-0707&theme=transparent&no-frame=true&margin-w=15&column=4" alt="github trophies" />
+  </a>
 </p>
 
 ---
